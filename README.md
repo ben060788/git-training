@@ -2,6 +2,7 @@
 git cmd training and memo
 
 # usually command
+- git log
 - git clone https://github.com/xxxx/xxx.git
 - git config --global user.name "xxxx"
 - git config --global user.email "xxxx@gmail.com"
