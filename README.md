@@ -6,6 +6,7 @@ git cmd training and memo
 - git config --global user.name "xxxx"
 - git config --global user.email "xxxx@gmail.com"
 - git remote add urlname https://github.com/xxxx/xxxx.git ​
+- git checkout branchName
 - p.s. git pull urlName branchName
 
 # step by step
